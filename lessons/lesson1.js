@@ -23,4 +23,3 @@ var isHeMarried = false //boolean
 var yearsInMarriage = null //null 
 var numberOfCars = undefined //undefined
 
-adding stuff 
